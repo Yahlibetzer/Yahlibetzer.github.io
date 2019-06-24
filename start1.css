@@ -1,0 +1,19 @@
+body {
+    position: relative;
+    background-image: url("https://images.unsplash.com/photo-1551823026-b8d1f9063e8b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1188&q=80");
+    background-repeat:no-repeat;
+    background-size:100% 100vh;
+}
+.btn {
+margin-top: 150px;
+margin-left:590px;
+color:white;
+}
+
+h1{
+  font-family: 'Gruppo', cursive;
+  text-align: center;
+  font-size: 100px;
+  color: white;
+  text-shadow: 5px color:gray;
+}
